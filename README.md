@@ -23,3 +23,4 @@ Here are some ideas to get you started:
   </p>
   </div>
 
+	https://github-readme-stats.vercel.app/api/top-langs/?LumaKido={LumaKido}
