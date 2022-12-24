@@ -54,8 +54,8 @@
 <div>
   <p align=center>⚙️ &nbsp;GitHub Analytics</p>
   <p align="center">
-  <img height="420px" width="50%" src="https://github-readme-stats.vercel.app/api?username=LumaKido&show_icons=true&count_private=true&hide_border=true&title_color=707FC2&icon_color=707FC2&text_color=c9d1d9&bg_color=0d1117" alt="Luma Kido github stats" /> 
-  <img height="400px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKido&layout=compact&hide_border=true&title_color=707FC2&text_color=707FC2&bg_color=0d1117" />
+  <img min-height="420px" width="50%" src="https://github-readme-stats.vercel.app/api?username=LumaKido&show_icons=true&count_private=true&hide_border=true&title_color=707FC2&icon_color=707FC2&text_color=c9d1d9&bg_color=0d1117" alt="Luma Kido github stats" /> 
+  <img min-height="400px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKido&layout=compact&hide_border=true&title_color=707FC2&text_color=707FC2&bg_color=0d1117" />
   </p>
   </div>
 
