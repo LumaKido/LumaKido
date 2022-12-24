@@ -24,5 +24,5 @@ Here are some ideas to get you started:
   </div>
   <div>
 <p align="center">
-  <img height="420px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username={LumaKido}" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKido" />
 </div>
