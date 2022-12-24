@@ -1,19 +1,26 @@
-### Hi there 👋
+<div align="center">
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<!--
-**LumaKido/LumaKido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <div align="center">I'm Luma Kido, a Systems Devoloper Student since 2020 and this is my profile!</div>  
+  
 
-Here are some ideas to get you started:
+<br/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+</div>
 
 <div>
   <p align=center>⚙️ &nbsp;GitHub Analytics</p>
@@ -24,3 +31,6 @@ Here are some ideas to get you started:
   </div>
 
 ![Snake animation](https://github.com/LumaKido/LumaKido/blob/output/github-contribution-grid-snake.svg)
+
+  
+</td><td valign="top" width="33%">
