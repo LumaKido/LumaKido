@@ -24,3 +24,5 @@ Here are some ideas to get you started:
   </div>
 
 ![Snake animation](https://github.com/LumaKido/LumaKido/blob/output/github-contribution-grid-snake.svg)
+
+<i class="devicon-bootstrap-plain-wordmark"></i>
