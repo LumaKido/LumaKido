@@ -38,8 +38,8 @@
 <a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" height="40" /></a>  
   <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="40" /></a>  
   <a href="https://inkscape.org/pt-br/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" alt="Inkscape" height="40" /></a> 
-  <br>
   <a href="https://developer.android.com/studio" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="AndroidStudio" height="40" /></a>  
+  <br>
   <a href="https://netbeans.apache.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="ApacheNetBeans" height="40" /></a>  
   <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VisualStudioCode" height="40" /></a> 
 </div>
