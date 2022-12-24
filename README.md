@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   <img height="400px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LumaKido&layout=compact&hide_border=true&title_color=707FC2&text_color=707FC2&bg_color=0d1117" />
   </p>
   </div>
+
+![Snake animation](https://github.com/LumaKido/LumaKido/blob/output/github-contribution-grid-snake.svg)
