@@ -28,7 +28,8 @@
 <div width="50%">  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="35" /></a>  
   <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="35" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35" /></a> 
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35" /></a>
+  <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="35" /></a>  
 </div>
   
   </td><td valign="top" width="50%">
