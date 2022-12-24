@@ -10,7 +10,7 @@
 
 
 ## My Skill Set  
-<table style="border-collapse:collapse;">  <tr><td valign="top" width="50%">
+<table style="border: none;">  <tr><td valign="top" width="50%"  style="border: none;">
 
 
 
