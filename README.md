@@ -10,7 +10,7 @@
 
 
 ## My Skill Set  
-<tr><td valign="top" width="50%">
+<table style="hide-border=true">  <tr><td valign="top" width="50%">
 
 
 
@@ -30,7 +30,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-</td></tr>
+</td></tr></table>  
 
 <br/>  
 
